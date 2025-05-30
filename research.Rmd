@@ -1,5 +1,28 @@
 ---
-title: "Research"
+title: "Research Projects"
 ---
 
-Hello - I am in the process of creating this page. Check back in soon!
+
+
+```{r BRF, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Lynx_Wa.JPG")
+```
+
+
+### Mammal connectivity in the Hudson Highlands
+
+Description coming soon.
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+---
+
+```{r DAWP, echo = F, out.width = "40%", out.extra='style="float:left; padding:20px"'}
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall2021_PC_Milly Evavold2.JPG")
+```
+
+### Climate change threats to alpine wildlife
+
+Climate change is amplified is polar regions and could have considerable consequences for biodiversity. Boreal regions have warmed more than double the global average and are experiencing increasing precipitation, thawing permafrost, shrinking snow seasons, and increasing shrub and tree encroachment. By quantifying the spatiotempral factors influencing the abundance, distribution, and behavior of key species (namely, Arcitc ground squirrels, collared pika, and hoary marmots), we can continue to tease apart complex species-climate relationships to assess species vulnerability.
+

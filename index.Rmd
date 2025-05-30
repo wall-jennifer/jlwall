@@ -19,7 +19,7 @@ header-includes:
 ---
 
 ```{r headshot, echo = F, out.width = "40%", out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall2021_PC_Milly Evavold2.JPG")
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall_Denali2.JPG")
 ```
 
 

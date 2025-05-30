@@ -1,9 +1,57 @@
 ---
-title: "Publications"
+
 ---
 
-My [Orcid](https://orcid.org/0000-0003-2521-9642)
+<style type="text/css">
+  h1 { font-family: Arial; font-size: 18pt; }
+  h2 { font-family: Arial; font-size: 11pt; line-height: 0.6;}
+  body { font-family: Arial; font-size: 12pt; }
+</style>
 
-Find me on [ResearchGate](https://www.researchgate.net/profile/Jennifer-Wall-4)
+<script>
+  $(document).ready(function(){
+    $head = $('#header');
+    $head.prepend('<img src=\"HOMA.JPG\" style=\"float:center;\" >')
+  });
+</script>
 
-Hello - I am in the process of updating this page. Check back in soon! In the meantime, you can check out my publications list 
+# Peer- Reviewed Publications
+
+<ol reversed>
+  <li>Prosser, D.J., J.D. Sullivan, **J.L. Wall**, E.J. Buck, J.J. Taylor, C.R. Callahan, P.C. McGowan. 2022. Poplar Island: Understanding the Development of a Beneficial Use Restoration Site. *Ecological Restoration.* 40:17-24. doi:10.3368/er.40.1.17.</li>
+    
+  <li>**Wall, J.L.**, B. Loken, J.F. Brodie. 2021. Reconciling resource extraction and species conservation in a multi-use landscape: Immediate and long-term impacts of logging on rainforest mammal diversity. *Global Ecology and Conservation.* 28. doi:10.1016/j.gecco.2021.e01642.</li>
+  
+  <li>**Wall, J.**, D. Brinker, S. Weindensaul, D. Okines, P. Côté, J.F. Therrien. 2021. Twenty-five year population trends in Northern Saw-Whet Owl (*Aegolius acadicus*) in eastern North America. *The Wilson Journal of Ornithology.*</li>
+  
+  <li>Riggs, G.J., J.D. Sullivan, K.M. Harvey, D.A. Pappas, **J.L. Wall**, P.C. McGowan, C.R. Callahan, C.A. Koppie, D.J. Prosser. 2019. Eviction Notice: Observation of a Common Tern (*Sterna hirundo*) Usurping an Active Least Tern (*Sterna antillarum*) Nest. *Northeastern Naturalist.* 26(3): 609-615.</li>
+  
+  <li>McGowan, P.C. et al., **J.L. Wall**, D.J. Prosser. 2019. Promoting Change in Common Tern (*Sterna hirundo*) Nest Site Selection to Minimize Construction Related Disturbance. *Ecological Restoration.* 37(3):143- 147. [doi:10.3368/er.37.3.143](https://er.uwpress.org/content/37/3/143)</li>
+  
+  <li>**Wall, J.L.**, P.M. Marban, D.F. Brinker, J.D. Sullivan, M. Zimnick, J.L. Murrow, P.C. McGowan, C.R. Callahan, D.J. Prosser. 2018. A Video Surveillance System to Monitor Breeding Colonies of Common Terns (*Sterna Hirundo*). *J. Vis Exp.* (137), e57928. [doi:10.3791/57928](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns)</li>
+  
+  <li>McGowan, P.C., K.M. Reintsma, J.D. Sullivan, K.P. Devoss, **J.L. Wall**, M.D. Zimnik, C.R. Callahan, B. Schultz, D.J. Prosser. 2018. Use of bank swallow (Riparia riparia) burrows as microclimates by common terns (*Sterna hirundo*) in high temperature environments. *Waterbirds*: 41(2), 179-182. [doi:10.1675/063.041.0210](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short)</li>
+</ol>
+
+# Book Chapters
+
+<ol reverse>
+  <li>Slobodkin, L.B. and **Wall, J.L.** 2024. Limits to Biodiversity. In: Scheiner S,M, (eds.) *Encyclopedia of Biodiversity 3rd edition*, vol 5, pp. 152-160. Oxford: Elsevier.</li>
+</ol>
+
+# Dissertation and Theses
+
+<ol reversed>
+  <li>**Wall, Jennifer Lynn**, "A closer look at Denali's alpine wildlife: Assessing the influences of climate and vegetation changes on species in Alaska" (2024). Graduate Student Theses, Dissertations, & Professional Papers. [12293.](https://scholarworks.umt.edu/etd/12293)</li>
+  <li>Chelst, Shlomit, Belton Delaine-Facey, S. J. Hull, D Jordan, Victoria Monsaint-Queeney, Mitul D Patel, Aayush Thapa, **J Wall** and D. A. Yee. “Evaluating the Efficacy of Cattail (*Typha spp.*) Fiber for Oil Sorption.” (2017). [https://doi.org/10.13016/M26T0GW45](https://drum.lib.umd.edu/items/e13df64c-b690-4b91-8e5e-c3ca8166361b)</li>
+  
+</ol>
+
+<div style="width:120px; float:left; padding:20px">
+[![Orcid](orcid.logo.png)](https://orcid.org/0000-0003-2521-9642)
+</div>
+
+
+<div style="width:200px; float:left; padding:20px">
+[![ResearchGate](researchgate.logo.png)](https://www.researchgate.net/profile/Jennifer-Wall-4)
+</div>

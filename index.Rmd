@@ -19,6 +19,8 @@ header-includes:
 
 ---
 
+<div text style= "float:right; position: relative">
+
 ```{r headshot, echo = F, out.width = "40%", out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall_Denali2.JPG")
 ```
@@ -31,6 +33,19 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall_Dena
 ## Black Rock Forest & Lamont-Doherty Earth Observatory, Columbia University
 
 <br>
+
 I am a wildlife biologist broadly interested in population and community ecology, theoretical and applied modeling, and behavioral ecology. More specifically, I am interested in better understanding how climate and other anthropogenic changes impact species interactions and behavior at the intersection of both applied and theoretical ecology.
 
 I have about 10 years of research experience on a variety of taxa and systems, including planning and implementing a multi-year, collaborative research project assessing the impacts of climate and landcover changes on at-risk wildlife in Alaska. I am currently a Postdoctoral Research Fellow with [Black Rock Forest](https://www.blackrockforest.org/) and the [Lamont-Doherty Earth Observatory](https://lamont.columbia.edu/), where I am building on existing research efforts to understand mammal composition and landscape use in the Hudson Valley. 
+
+</div>
+
+---
+
+<div style="width:130px; float:left; padding:30px">
+![](BRF.logo.svg)
+</div>
+
+<div style="width:370px; float:left; padding:30px">
+![](LDEO.logo.jpg)
+</div>

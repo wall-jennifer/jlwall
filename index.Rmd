@@ -1,9 +1,37 @@
 ---
-title: "My Website"
+header-includes:
+  - \usepackage{floatrow}
 ---
 
-Hello, Website!
+<script>
+  $(document).ready(function(){
+    $head = $('#header');
+    $head.prepend('<img src=\"COPI_2022_Wall.JPG\" style=\"float:center;\" >')
+  });
+</script>
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+<script>
+  p.caption {
+    font.size: 0.5em;
+  }
+</script>
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+---
+
+```{r headshot, echo = F, out.width = "40%", out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall2021_PC_Milly Evavold2.JPG")
+```
+
+
+### Jennifer L. Wall, PhD
+
+#### *Postdoctoral Research Fellow*
+
+#### Black Rock Forest &
+
+#### Lamont-Doherty Earth Observatory, Columbia University
+
+I am a wildlife biologist broadly interested in population and community ecology, theoretical and applied modeling, and behavioral ecology. More specifically, I am interested in better understanding how climate and other anthropogenic changes impact species interactions and behavior at the intersection of both applied and theoretical ecology.
+
+I have about 10 years of research experience on a variety of taxa and systems, including planning and implementing a multi-year, collaborative research project assessing the impacts of climate and landcover changes on at-risk wildlife in Alaska. I am currently a Postdoctoral Research Fellow with [Black Rock Forest](https://www.blackrockforest.org/) and the [Lamont-Doherty Earth Observatory](https://lamont.columbia.edu/), where I am building on existing research efforts to understand mammal composition and landscape use in the Hudson Valley. 
+

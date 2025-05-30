@@ -1,4 +1,0 @@
-usethis::create_from_github(
-  "https://github.com/wall-jennifer/jlwall.git",
-  destdir = "~/main"
-)

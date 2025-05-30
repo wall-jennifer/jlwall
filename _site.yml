@@ -1,8 +1,11 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Jennifer L. Wall, PhD"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+output_dir: docs

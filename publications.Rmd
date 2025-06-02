@@ -43,7 +43,7 @@
 
 <ol reversed>
   <li>**Wall, Jennifer Lynn**, "A closer look at Denali's alpine wildlife: Assessing the influences of climate and vegetation changes on species in Alaska" (2024). Graduate Student Theses, Dissertations, & Professional Papers. [12293.](https://scholarworks.umt.edu/etd/12293)</li>
-  <li>Chelst, Shlomit, Belton Delaine-Facey, S. J. Hull, D Jordan, Victoria Monsaint-Queeney, Mitul D Patel, Aayush Thapa, **J Wall** and D. A. Yee. “Evaluating the Efficacy of Cattail (*Typha spp.*) Fiber for Oil Sorption.” (2017). [https://doi.org/10.13016/M26T0GW45](https://drum.lib.umd.edu/items/e13df64c-b690-4b91-8e5e-c3ca8166361b)</li>
+  <li>Chelst, Shlomit, Belton Delaine-Facey, S. J. Hull, D Jordan, Victoria Monsaint-Queeney, Mitul D Patel, Aayush Thapa, **J Wall** and D. A. Yee. “Evaluating the Efficacy of Cattail (*Typha spp.*) Fiber for Oil Sorption.” (2017). *University of Maryland*: Student Theses. [https://doi.org/10.13016/M26T0GW45](https://drum.lib.umd.edu/items/e13df64c-b690-4b91-8e5e-c3ca8166361b)</li>
   
 </ol>
 

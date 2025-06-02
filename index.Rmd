@@ -5,7 +5,7 @@ header-includes:
 
 <style type="text/css">
   h1 { font-family: Arial; font-size: 18pt; }
-  h2 { font-family: Arial; font-size: 11pt; line-height: 0.6;}
+  h2 { font-family: Arial; font-size: 11pt; line-height: 1;}
   body { font-family: Arial; font-size: 12pt; }
 </style>
 

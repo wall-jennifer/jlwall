@@ -8,4 +8,13 @@ navbar:
       href: research.html
     - text: "Publications"
       href: publications.html
+  right:
+  - href: https://github.com/wall-jennifer
+    icon: fa-github
+  - href: https://www.linkedin.com/in/jennifer-wall-472805104
+    icon: fa-linkedin
+  - href: https://https://orcid.org/0000-0003-2521-9642
+    icon: fa-brands fa-orcid
+  - href: https://https://www.researchgate.net/profile/Jennifer-Wall-4
+    icon: fa-brands fa-researchgate
 output_dir: docs

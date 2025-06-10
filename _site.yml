@@ -8,6 +8,8 @@ navbar:
       href: research.html
     - text: "Publications"
       href: publications.html
+    - text: "CV"
+      href: cv.html
   right:
   - href: https://github.com/wall-jennifer
     icon: fa-github

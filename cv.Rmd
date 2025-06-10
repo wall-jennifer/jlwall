@@ -1,0 +1,13 @@
+---
+title: "Curriculum vitae"
+output: html_document
+---
+
+
+
+```{r echo=F, message=F, fig.align='center', out.width="100%", out.height="800"}
+
+knitr::include_graphics("Wall_CV_Website06102025.pdf")
+
+```
+

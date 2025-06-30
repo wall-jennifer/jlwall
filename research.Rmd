@@ -8,7 +8,7 @@ title: "Research Projects"
 }
 </style>
 
-<div style= "float:left;position: relative">
+<div style= "float:right;position: relative">
 
 ```{r BRF, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
 knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Lynx_Wa.JPG")
@@ -16,16 +16,35 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Lynx_Wa.J
 
 ### Mammal connectivity in the Hudson Highlands
 
-Description coming soon.
+This research is part of the [Hudson Highlands Wildlife Connectivity Project](https://blackrockforest.org/wildlife-connectivity) out of Black Rock Forest, which aims to quantitatively assess barriers to the free movements of native carnivores and to identify mitigation strategies to reduce these barriers or facilitate the continued movements necessary to sustain landscape resiliency. As part of this work, I am assessing wildlife space use and functional landscape connectivity. 
 
 </div>
 
 
 ---
 
+<div text style= "float:left; position: relative">
+
+```{r Deer, echo = F, out.width = "40%", out.extra='style="float:left; padding:20px"'}
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/JWall_BRFResearchSymposium.JPG")
+```
+
+
+### Modeling deer abundance
+
+Accurately modeling wildlife populations is crucial for effective management. This is particularly true for white-tailed deer (*Odocoileus virginianus*) populations in the Northeastern United States, where deer are both culturally and historically significant, but often overabundant and damaging to forest health. As climate changes make traditional surveys increasingly challenging and less reliable, we will need to find alternative approaches for monitoring populations. Together with Dr. Scott LaPoint and John Brady, I am working to compare various techniques for measuring deer populations (winter snow tracking, spring pellet counts, and baited and unbaited camera trap surveys) within [Black Rock Forest](www.blackrockforest.org). 
+
+We presented this work at Black Rock Forest's biennial Hudson Highlands Symposium. See a copy of the [2025 abstracts presented here](https://www.blackrockforest.org/past-research-symposiu-presentations).
+
+</div>
+
+
+---
+
+
 <div text style= "float:right; position: relative">
 
-```{r DAWP, echo = F, out.width = "40%", out.extra='style="float:left; padding:20px"'}
+```{r DAWP, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
 knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall2021_PC_Milly Evavold2.JPG")
 ```
 

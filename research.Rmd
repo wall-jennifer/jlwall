@@ -34,7 +34,7 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/JWall_BRF
 
 Accurately modeling wildlife populations is crucial for effective management. This is particularly true for white-tailed deer (*Odocoileus virginianus*) populations in the Northeastern United States, where deer are both culturally and historically significant, but often overabundant and damaging to forest health. As climate changes make traditional surveys increasingly challenging and less reliable, we will need to find alternative approaches for monitoring populations. Together with Dr. Scott LaPoint and John Brady, I am working to compare various techniques for measuring deer populations (winter snow tracking, spring pellet counts, and baited and unbaited camera trap surveys) within [Black Rock Forest](www.blackrockforest.org). 
 
-We presented this work at Black Rock Forest's biennial Hudson Highlands Symposium. See a copy of the [2025 abstracts presented here](https://www.blackrockforest.org/past-research-symposiu-presentations).
+We presented this work at Black Rock Forest's biennial Hudson Highlands Symposium. See a copy of the [2025 abstracts presented here](https://www.blackrockforest.org/past-research-symposium-presentations).
 
 </div>
 

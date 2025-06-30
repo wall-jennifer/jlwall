@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "Ongoing Research Projects"
 ---
 
 <style type="text/css">
@@ -11,7 +11,7 @@ title: "Research Projects"
 <div style= "float:right;position: relative">
 
 ```{r BRF, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
-knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Lynx_Wa.JPG")
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Lynx_Wa.JPG")
 ```
 
 ### Mammal connectivity in the Hudson Highlands
@@ -26,7 +26,7 @@ This research is part of the [Hudson Highlands Wildlife Connectivity Project](ht
 <div text style= "float:left; position: relative">
 
 ```{r Deer, echo = F, out.width = "40%", out.extra='style="float:left; padding:20px"'}
-knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/JWall_BRFResearchSymposium.JPG")
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/JWall_BRFResearchSymposium.JPG")
 ```
 
 
@@ -41,11 +41,10 @@ We presented this work at Black Rock Forest's biennial Hudson Highlands Symposiu
 
 ---
 
-
 <div text style= "float:right; position: relative">
 
 ```{r DAWP, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
-knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall2021_PC_Milly Evavold2.JPG")
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Wall2021_PC_Milly Evavold2.JPG")
 ```
 
 
@@ -57,4 +56,24 @@ See a copy of my [dissertation research.](https://scholarworks.umt.edu/etd/12293
 
 </div>
     
-  
+---
+
+## Past Research Projects
+
+<div text style= "float:left; position: relative">
+
+```{r NSWO, echo = F, out.width = "40%", out.extra='style="float:left; padding:20px"'}
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/NSWO.JPG")
+```
+
+
+### Northern Saw-whet owl migrations
+
+In 2017, I managed a banding station at Pet&#237;t Manan Point in Steuben, Maine as part of [Project OwlNet](www.projectowlnet.org), a continent-wide survey effort to track Northern saw-whet owl migration patterns over time. 
+
+In 2018, in partnership with the project's founder, Dave Brinker, [Hawk Mountain Sanctuary](http://hawkmountain.org), and collaborators throughout the Northeast (ranging from Qu&#233;bec, Canada to Assateague, MD), I was able to assess Northern saw-whet owl population trends from 7 sites over a 25 year period. We were able to identify cyclic juvenile owl irruptions, and found that populations appeared relatively stable throughout their migration and winter ranges.
+
+See here for a webinar on the project, ["Becoming nocturnal: A glimpse into monitoring Northern saw-whet owls"](https://www.youtube.com/watch?v=zOiK1mbA23U) and here for a [copy of our research](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-132/issue-3/19-125/Twenty-five-year-population-trends-in-Northern-Saw-whet-Owl/10.1676/19-125.short).
+
+
+</div>  

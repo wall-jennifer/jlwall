@@ -1,14 +1,55 @@
 ---
-title: "Ongoing Research Projects"
+title: "Research"
+output: html_document
 ---
 
-<style type="text/css">
-  body{
-  font-size: 12pt;
-}
+<style>
+.full-width body {background-color: #f3f3f3; 
+                       max-width: 100vw;
+                       margin: auto;
+                       }
 </style>
 
-<div style= "float:right;position: relative">
+<div style ="full-width">
+
+Click on a photo to learn more about each project! 
+
+```{r, echo=F, message=F,  out.width = "100%"}
+library(tidyverse)
+library(leaflet)
+
+leaflet() %>% 
+  addTiles() %>% 
+  addMarkers(lng = -74.021667,
+             lat = 41.408056,
+             popup = "<b><a href='#HudsonHighlands'><img src='C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Lynx_Wa.JPG'</a><a href='#Deer'><img src='C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/JWall_BRFResearchSymposium.JPG'></a></b>",
+             popupOptions(maxWidth = "auto")
+    ) %>% 
+    addMarkers(lng = -150.557, lat = 63.335,
+             popup = "<b><a href='#DAWP'><img src='C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/DAWP.JPG'></a>"
+    ) %>% 
+      addMarkers(lng = -76.3840, lat = 38.7617,
+             popup = "<b><a href='#Poplar'><img src='C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/CommonTernwithFish.JPG'></a>",
+             popupOptions(maxWidth = "auto")
+    ) %>% 
+        addMarkers(lng = -67.891996, lat = 44.43499826,
+             popup = "<b><a href='#Maine'><img src='C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/NSWO.JPG'></a>",
+             popupOptions(maxWidth = "auto")
+    )
+```
+
+</div>
+
+<style type="text/css">
+  body{font-size: 12pt;}
+</style>
+
+<div text style= "float:right; position: relative">
+
+## Ongoing research projects
+
+<a name="HudsonHighlands"></a>
+
 
 ```{r BRF, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
 knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Lynx_Wa.JPG")
@@ -23,12 +64,14 @@ This research is part of the [Hudson Highlands Wildlife Connectivity Project](ht
 
 ---
 
+
 <div text style= "float:left; position: relative">
+
+<a name="Deer"></a>
 
 ```{r Deer, echo = F, out.width = "40%", out.extra='style="float:left; padding:20px"'}
 knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/JWall_BRFResearchSymposium.JPG")
 ```
-
 
 ### Modeling deer abundance
 
@@ -43,12 +86,14 @@ We presented this work at Black Rock Forest's biennial Hudson Highlands Symposiu
 
 <div text style= "float:right; position: relative">
 
+<a name="DAWP"></a>
+
 ```{r DAWP, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
 knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Wall2021_PC_Milly Evavold2.JPG")
 ```
 
 
-### Climate change threats to alpine wildlife
+### Climate change threats to alpine wildlife 
 
 Climate change is amplified is polar regions and could have considerable consequences for biodiversity. Boreal regions have warmed more than double the global average and are experiencing increasing precipitation, thawing permafrost, shrinking snow seasons, and increasing shrub and tree encroachment. By quantifying the spatiotemporal factors influencing the abundance, distribution, and behavior of key species (namely, Arctic ground squirrels, collared pika, and hoary marmots), we can continue to tease apart complex species-climate relationships to assess species vulnerability.
 
@@ -60,6 +105,7 @@ See a copy of my [dissertation research.](https://scholarworks.umt.edu/etd/12293
 
 # Past Research Projects
 
+<a name="Poplar"></a>
 
 <div text style= "float:left; position: relative">
 
@@ -80,6 +126,8 @@ In addition, I helped co-author a field note on the [use of bank swallow burrows
 </div>  
 
 ---
+
+<a name="Maine"></a>
 
 <div text style= "float:right; position: relative">
 

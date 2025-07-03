@@ -11,7 +11,7 @@
 
 
 
-<title>Ongoing Research Projects</title>
+<title>Research</title>
 
 <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -32,6 +32,14 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet" />
+<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
+<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
+<script src="site_libs/leaflet-binding-2.2.1/leaflet.js"></script>
 <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
@@ -291,17 +299,29 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Ongoing Research Projects</h1>
+<h1 class="title toc-ignore">Research</h1>
 
 </div>
 
 
-<style type="text/css">
-  body{
-  font-size: 12pt;
-}
+<style>
+.full-width body {background-color: #f3f3f3; 
+                       max-width: 100vw;
+                       margin: auto;
+                       }
 </style>
-<div style="float:right;position: relative">
+<div style="full-width">
+<p>Click on a photo to learn more about each project!</p>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-19b8fbbac506ee3d2f2f" style="width:100%;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-19b8fbbac506ee3d2f2f">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[41.408056,-74.02166699999999,null,{"maxWidth":"auto","minWidth":50,"autoPan":true,"keepInView":false,"closeButton":true,"className":""},null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"<b><a href='#HudsonHighlands'><img src='Photos/Lynx_Wa.JPG'<\/a><a href='#Deer'><img src='Photos/JWall_BRFResearchSymposium.JPG'><\/a><\/b>",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[63.335,-150.557,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"<b><a href='#DAWP'><img src='Photos/DAWP.JPG'><\/a>",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[38.7617,-76.384,null,{"maxWidth":"auto","minWidth":50,"autoPan":true,"keepInView":false,"closeButton":true,"className":""},null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"<b><a href='#Poplar'><img src='Photos/CommonTernwithFish.JPG'><\/a>",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[44.43499826,-67.89199600000001,null,{"maxWidth":"auto","minWidth":50,"autoPan":true,"keepInView":false,"closeButton":true,"className":""},null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"<b><a href='#Maine'><img src='Photos/NSWO.JPG'><\/a>",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[38.7617,63.335],"lng":[-150.557,-67.89199600000001]}},"evals":[],"jsHooks":[]}</script>
+</div>
+<style type="text/css">
+  body{font-size: 12pt;}
+</style>
+<div id="ongoing-research-projects" class="section level2" text=""
+style="float:right; position: relative">
+<h2>Ongoing research projects</h2>
+<p><a name="HudsonHighlands"></a></p>
 <p><img src="Photos/Lynx_Wa.JPG" width="40%" style="float:right; padding:20px" /></p>
 <div id="mammal-connectivity-in-the-hudson-highlands"
 class="section level3">
@@ -318,6 +338,7 @@ space use and functional landscape connectivity.</p>
 </div>
 <hr />
 <div text="" style="float:left; position: relative">
+<p><a name="Deer"></a></p>
 <p><img src="Photos/JWall_BRFResearchSymposium.JPG" width="40%" style="float:left; padding:20px" /></p>
 <div id="modeling-deer-abundance" class="section level3">
 <h3>Modeling deer abundance</h3>
@@ -340,6 +361,7 @@ abstracts presented here</a>.</p>
 </div>
 <hr />
 <div text="" style="float:right; position: relative">
+<p><a name="DAWP"></a></p>
 <p><img src="Photos/Wall2021_PC_Milly%20Evavold2.JPG" width="40%" style="float:right; padding:20px" /></p>
 <div id="climate-change-threats-to-alpine-wildlife"
 class="section level3">
@@ -361,6 +383,7 @@ research.</a></p>
 <hr />
 <div id="past-research-projects" class="section level1">
 <h1>Past Research Projects</h1>
+<p><a name="Poplar"></a></p>
 <div text="" style="float:left; position: relative">
 <p><img src="Photos/CommonTernchick.JPG" width="40%" style="float:left; padding:20px" /></p>
 <div id="waterbird-population-monitoring" class="section level3">
@@ -396,6 +419,7 @@ trends and land-use change.</p>
 </div>
 </div>
 <hr />
+<p><a name="Maine"></a></p>
 <div text="" style="float:right; position: relative">
 <p><img src="Photos/NSWO.JPG" width="40%" style="float:right; padding:20px" /></p>
 <div id="northern-saw-whet-owl-migrations" class="section level3">

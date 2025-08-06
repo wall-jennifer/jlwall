@@ -1,7 +1,14 @@
 ---
-title: "Research"
 output: html_document
 ---
+
+<script>
+  $(document).ready(function(){
+    $head = $('#header');
+    $head.prepend('<img src=\"Photos/Research_20152024.JPG\" style=\"float:center;\" >')
+  });
+</script>
+
 
 <style>
 .full-width body {background-color: #f3f3f3; 
@@ -12,9 +19,13 @@ output: html_document
 
 <div style ="full-width">
 
-Click on a photo to learn more about each project! 
+---
 
-```{r, echo=F, message=F,  out.width = "100%"}
+Learn more about my ongoing and past research projects.
+
+---
+
+```{r, eval = F, echo=F, message=F,  out.width = "100%"}
 library(tidyverse)
 library(leaflet)
 
@@ -57,7 +68,9 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Ly
 
 ### Mammal connectivity in the Hudson Highlands
 
-This research is part of the [Hudson Highlands Wildlife Connectivity Project](https://blackrockforest.org/wildlife-connectivity) out of Black Rock Forest, which aims to quantitatively assess barriers to the free movements of native carnivores and to identify mitigation strategies to reduce these barriers or facilitate the continued movements necessary to sustain landscape resiliency. As part of this work, I am assessing wildlife space use and functional landscape connectivity. 
+This research is part of the [Hudson Highlands Wildlife Connectivity Project](https://blackrockforest.org/wildlife-connectivity) out of Black Rock Forest, which aims to quantitatively assess barriers to the free movements of native carnivores and to identify mitigation strategies to reduce these barriers or facilitate the continued movements necessary to sustain landscape resiliency. As part of this work, I am assessing wildlife space use and functional landscape connectivity locally (within Orange county) and regionally (low to mid- Hudson Highlands West of the Hudson River).
+
+Note: This photo is one I took of a Canada lynx in Alaska (PC: J. Wall, 2022). Stay tuned for a more up-to-date photo of our local bobcats and fishers!
 
 </div>
 
@@ -77,7 +90,7 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/JW
 
 Accurately modeling wildlife populations is crucial for effective management. This is particularly true for white-tailed deer (*Odocoileus virginianus*) populations in the Northeastern United States, where deer are both culturally and historically significant, but often overabundant and damaging to forest health. As climate changes make traditional surveys increasingly challenging and less reliable, we will need to find alternative approaches for monitoring populations. Together with Dr. Scott LaPoint and John Brady, I am working to compare various techniques for measuring deer populations (winter snow tracking, spring pellet counts, and baited and unbaited camera trap surveys) within [Black Rock Forest](www.blackrockforest.org). 
 
-We presented this work at Black Rock Forest's biennial Hudson Highlands Symposium. See a copy of the [2025 abstracts presented here](https://www.blackrockforest.org/past-research-symposium-presentations).
+We presented this work at Black Rock Forest's biennial Hudson Highlands Symposium. Here's a copy of the [Hudson Highlands Symposium 2025 abstracts](https://www.blackrockforest.org/past-research-symposium-presentations).
 
 </div>
 
@@ -97,7 +110,9 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Wa
 
 Climate change is amplified is polar regions and could have considerable consequences for biodiversity. Boreal regions have warmed more than double the global average and are experiencing increasing precipitation, thawing permafrost, shrinking snow seasons, and increasing shrub and tree encroachment. By quantifying the spatiotemporal factors influencing the abundance, distribution, and behavior of key species (namely, Arctic ground squirrels, collared pika, and hoary marmots), we can continue to tease apart complex species-climate relationships to assess species vulnerability.
 
-See a copy of my [dissertation research.](https://scholarworks.umt.edu/etd/12293/)
+Link to my [dissertation research](https://scholarworks.umt.edu/etd/12293/).
+
+Link to a [pre-print on how the environment impacts collared pika summer activity patterns](https://www.authorea.com/users/923210/articles/1295104-patch-quality-affords-behavioral-flexibility-in-collared-pikas-ochotona-collaris-potentially-increasing-climate-resiliency) (note: this is currently under review and has not been published).
 
 </div>
     
@@ -118,9 +133,9 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/Co
 
 As a research technician within the [Prosser Lab](https://www.usgs.gov/staff-profiles/diann-prosser) at the USGS Eastern Ecological Science Center and through the [Chesapeake Conservation Corps](https://cbtrust.org/chesapeake-climate-corps/), I  was involved in a number of projects monitoring waterbird nesting success on Poplar island, a large restoration project focused on using dredge material from Baltimore's shipping channels to restore remote island habitat in the bay. This included banding and monitoring common and least tern populations, assisting the US Fish and Wildlife Service with surveys monitoring gulls, egrets, osprey, and cormorants, and helping to sample and process lesser scaup for avian influenza research.
 
-During my time as a research technician, I helped to build a [solar-powered video surveillance system to monitor colonially nesting waterbirds](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns). This included cutting and soldering wires, wiring car batteries to a solar powered array, and  coordinating a film production walking through the methodology. 
+During my time as a research technician, I helped to build a [solar-powered video surveillance system](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns) to monitor colonially nesting waterbirds. This included cutting and soldering wires, wiring car batteries to a solar powered array, and  coordinating a film production walking through the methodology. 
 
-In addition, I helped co-author a field note on the [use of bank swallow burrows as microclimates](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short) by terns and a paper on evaluating the use of a [paired attractant and deterrent to facilitate the relocation of a common tern breeding colony](https://digitalcommons.unl.edu/usfwspubs/556/). I also [digitized long-term aerial imagery](https://er.uwpress.org/content/40/1/17) of wetland habitats on Poplar Island to examine climate trends and land-use change.
+In addition, I helped co-author (1) a field note on how [terns use bank swallow burrows as microclimates](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short) and (2) a paper evaluating the use of a paired attractant and deterrent to [facilitate the relocation of a common tern breeding colony](https://digitalcommons.unl.edu/usfwspubs/556/), and (3) digitized [long-term aerial imagery of wetlands](https://pubs.usgs.gov/publication/70230103) on Poplar Island to examine climate trends and land-use change.
 
 
 </div>  
@@ -140,9 +155,11 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/NS
 
 In 2017, I managed a banding station at Pet&#237;t Manan Point in Steuben, Maine as part of [Project OwlNet](www.projectowlnet.org), a continent-wide survey effort to track Northern saw-whet owl migration patterns over time. 
 
-In partnership with the project's founder, Dave Brinker, [Hawk Mountain Sanctuary](http://hawkmountain.org), and collaborators throughout the Northeast (ranging from Qu&#233;bec, Canada to Assateague, MD), I assessed Northern saw-whet owl population trends from 7 sites over a 25 year period. We were able to identify cyclic juvenile owl irruptions, and found that populations appeared relatively stable throughout their migration and winter ranges.
+In partnership with the project's founder, Dave Brinker, [Hawk Mountain Sanctuary](http://hawkmountain.org), and collaborators throughout the Northeast (ranging from Qu&#233;bec, Canada to Assateague, MD), I assessed Northern saw-whet owl population trends from 7 sites over a 25 year period. We were able to identify cyclic juvenile owl irruptions, and found that populations appeared relatively stable throughout their migration and winter ranges ([published research paper](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-132/issue-3/19-125/Twenty-five-year-population-trends-in-Northern-Saw-whet-Owl/10.1676/19-125.short)).
 
-See here for a webinar on the project, ["Becoming nocturnal: A glimpse into monitoring Northern saw-whet owls"](https://www.youtube.com/watch?v=zOiK1mbA23U) and here for a [copy of our published research](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-132/issue-3/19-125/Twenty-five-year-population-trends-in-Northern-Saw-whet-Owl/10.1676/19-125.short).
+2021 webinar with Hawk Mountain Sanctuary: ["Becoming nocturnal: A glimpse into monitoring Northern saw-whet owls"](https://www.youtube.com/watch?v=zOiK1mbA23U).
+
+
 
 
 </div>  

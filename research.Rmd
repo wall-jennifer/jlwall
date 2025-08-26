@@ -1,14 +1,14 @@
 ---
-output: html_document
+title: "Research Projects"
+output:
+  html_document:
+    css: researchstyle.css
 ---
 
-<script>
-  $(document).ready(function(){
-    $head = $('#header');
-    $head.prepend('<img src=\"Photos/Research_20152024.JPG\" style=\"float:center;\" >')
-  });
-</script>
-
+<div class="image-container">
+  <img src="Photos/Research_OverviewPhotos_20152024.jpg" alt="A compilation of photos of J.Wall doing field research.">
+  <div class="image-title">Research Projects</div>
+</div>
 
 <style>
 .full-width body {background-color: #f3f3f3; 
@@ -18,6 +18,16 @@ output: html_document
 </style>
 
 <div style ="full-width">
+
+```{R, eval = F, echo =F}
+<script>
+  $(document).ready(function(){
+    $head = $('#header');
+    $head.prepend('<img src=\"Photos/Research_20152024.JPG\" style=\"float:center;\" >')
+  });
+</script>
+
+```
 
 ---
 

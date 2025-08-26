@@ -1,0 +1,29 @@
+
+
+.image-container {
+  position: relative; /* This is the key that allows positioning children relative to this div */
+  text-align: left; /* Center the title horizontally */
+  color: white; /* Choose a title color with enough contrast */
+}
+
+.image-container img {
+  display: block; /* Prevents unwanted spacing below the image */
+  width: 100%; /* Ensures the image fits the container */
+  height: auto;
+}
+                       
+.image-title {
+  position: absolute; /* Positions the title relative to the parent container */
+  top: 82%; /* Center the title vertically */
+  left: 28%; /* Center the title horizontally */
+  margin: auto;
+  transform: translate(-50%, -50%); /* Fine-tunes the centering */
+  font-family: sans-serif;
+  font-size: 3.5em;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #000000; /* Add a shadow for readability */
+}
+
+#header {
+    display: none;
+}

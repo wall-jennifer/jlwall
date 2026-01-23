@@ -1,10 +1,10 @@
 ---
 header-includes:
   - \usepackage{floatrow}
-title: "Research Projects"
+title: "Home"
 output:
   html_document:
-    css: researchstyle.css
+    css: home.css
 ---
 
 <style type="text/css">

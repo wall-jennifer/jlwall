@@ -18,6 +18,8 @@
 # Peer- Reviewed Publications
 
 <ol reversed>
+  <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos.*</li>
+  
   <li>Prosser, D.J., J.D. Sullivan, **J.L. Wall**, E.J. Buck, J.J. Taylor, C.R. Callahan, P.C. McGowan. 2022. Poplar Island: Understanding the Development of a Beneficial Use Restoration Site. *Ecological Restoration.* 40:17-24. [doi:10.3368/er.40.1.17](https://er.uwpress.org/content/40/1/17)</li>
     
   <li>**Wall, J.L.**, B. Loken, J.F. Brodie. 2021. Reconciling resource extraction and species conservation in a multi-use landscape: Immediate and long-term impacts of logging on rainforest mammal diversity. *Global Ecology and Conservation.* 28. [doi:10.1016/j.gecco.2021.e01642](https://www.sciencedirect.com/science/article/pii/S235198942100192X)</li>

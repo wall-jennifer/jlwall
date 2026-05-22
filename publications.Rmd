@@ -18,7 +18,7 @@
 # Peer- Reviewed Publications
 
 <ol reversed>
-  <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos.*</li>
+  <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos.* Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.or/doi:10.5061/dryad.gtht76j2v)</li>
   
   <li>Prosser, D.J., J.D. Sullivan, **J.L. Wall**, E.J. Buck, J.J. Taylor, C.R. Callahan, P.C. McGowan. 2022. Poplar Island: Understanding the Development of a Beneficial Use Restoration Site. *Ecological Restoration.* 40:17-24. [doi:10.3368/er.40.1.17](https://er.uwpress.org/content/40/1/17)</li>
     
@@ -32,7 +32,7 @@
   
   <li>**Wall, J.L.**, P.M. Marban, D.F. Brinker, J.D. Sullivan, M. Zimnick, J.L. Murrow, P.C. McGowan, C.R. Callahan, D.J. Prosser. 2018. A Video Surveillance System to Monitor Breeding Colonies of Common Terns (*Sterna Hirundo*). *J. Vis Exp.* (137), e57928. [doi:10.3791/57928](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns)</li>
   
-  <li>McGowan, P.C., K.M. Reintsma, J.D. Sullivan, K.P. Devoss, **J.L. Wall**, M.D. Zimnik, C.R. Callahan, B. Schultz, D.J. Prosser. 2018. Use of bank swallow (Riparia riparia) burrows as microclimates by common terns (*Sterna hirundo*) in high temperature environments. *Waterbirds*: 41(2), 179-182. [doi:10.1675/063.041.0210](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short)</li>
+  <li>McGowan, P.C., K.M. Reintsma, J.D. Sullivan, K.P. Devoss, **J.L. Wall**, M.D. Zimnik, C.R. Callahan, B. Schultz, D.J. Prosser. 2018. Use of bank swallow (*Riparia riparia*) burrows as microclimates by common terns (*Sterna hirundo*) in high temperature environments. *Waterbirds*: 41(2), 179-182. [doi:10.1675/063.041.0210](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short)</li>
 </ol>
 
 # Book Chapters

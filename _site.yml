@@ -5,7 +5,11 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: research.html
+      menu:
+        - text: "Ongoing Research"
+          href: research.html
+        - text: "Past Research"
+          href: past-research.html
     - text: "Publications"
       href: publications.html
     - text: "CV"

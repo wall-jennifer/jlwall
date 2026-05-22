@@ -1,0 +1,117 @@
+---
+title: "Past Research Projects"
+output:
+  html_document:
+    css: researchstyle.css
+---
+
+<div class="image-container">
+  <img src="Photos/Research_OverviewPhotos_20152024.jpg" alt="A compilation of photos of J.Wall doing field research.">
+  <div class="image-title">Research Projects</div>
+</div>
+
+<style>
+.full-width body {background-color: #f3f3f3; 
+                       max-width: 100vw;
+                       margin: auto;
+                       }
+</style>
+
+<div style ="full-width">
+
+```{R, eval = F, echo =F}
+<script>
+  $(document).ready(function(){
+    $head = $('#header');
+    $head.prepend('<img src=\"Photos/Research_20152024.JPG\" style=\"float:center;\" >')
+  });
+</script>
+
+```
+
+
+
+```{r, eval = F, echo=F, message=F,  out.width = "100%"}
+library(tidyverse)
+library(leaflet)
+
+leaflet() %>% 
+  addTiles() %>% 
+  addMarkers(lng = -76.3840, lat = 38.7617,
+             popup = "<b><a href='#Poplar'><img src='C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/CommonTernwithFish.JPG'></a>",
+             popupOptions(maxWidth = "auto")
+    ) %>% 
+        addMarkers(lng = -67.891996, lat = 44.43499826,
+             popup = "<b><a href='#Maine'><img src='C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/NSWO.JPG'></a>",
+             popupOptions(maxWidth = "auto")
+    )
+```
+
+</div>
+
+<style type="text/css">
+  body{font-size: 12pt;}
+</style>
+
+
+---
+
+<a name="Poplar"></a>
+
+<div text style= "float:left; position: relative">
+
+```{r Poplar, echo = F, out.width = "40%", out.extra='style="float:left; padding:20px"'}
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/CommonTernchick.JPG")
+```
+
+
+### Waterbird Population monitoring
+
+As a research technician within the [Prosser Lab](https://www.usgs.gov/staff-profiles/diann-prosser) at the USGS Eastern Ecological Science Center and through the [Chesapeake Conservation Corps](https://cbtrust.org/chesapeake-climate-corps/), I  was involved in a number of projects monitoring waterbird nesting success on Poplar island, a large restoration project focused on using dredge material from Baltimore's shipping channels to restore remote island habitat in the bay. This included banding and monitoring common and least tern populations, assisting the US Fish and Wildlife Service with surveys monitoring gulls, egrets, osprey, and cormorants, and helping to sample and process lesser scaup for avian influenza research.
+
+During my time as a research technician, I helped to build a [solar-powered video surveillance system](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns) to monitor colonially nesting waterbirds. This included cutting and soldering wires, wiring car batteries to a solar powered array, and  coordinating a film production walking through the methodology. 
+
+In addition, I helped co-author (1) a field note on how [terns use bank swallow burrows as microclimates](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short) and (2) a paper evaluating the use of a paired attractant and deterrent to [facilitate the relocation of a common tern breeding colony](https://digitalcommons.unl.edu/usfwspubs/556/), and (3) digitized [long-term aerial imagery of wetlands](https://pubs.usgs.gov/publication/70230103) on Poplar Island to examine climate trends and land-use change.
+
+Publications:
+
+<ul>
+  <li>Prosser, D.J., J.D. Sullivan, **J.L. Wall**, E.J. Buck, J.J. Taylor, C.R. Callahan, P.C. McGowan. 2022. Poplar Island: Understanding the Development of a Beneficial Use Restoration Site. *Ecological Restoration.* 40:17-24. [doi:10.3368/er.40.1.17](https://er.uwpress.org/content/40/1/17)</li>
+  
+  <li>Riggs, G.J., J.D. Sullivan, K.M. Harvey, D.A. Pappas, **J.L. Wall**, P.C. McGowan, C.R. Callahan, C.A. Koppie, D.J. Prosser. 2019. Eviction Notice: Observation of a Common Tern (*Sterna hirundo*) Usurping an Active Least Tern (*Sterna antillarum*) Nest. *Northeastern Naturalist.* 26(3): 609-615.[doi:10.1656/045.026.0313](https://bioone.org/journals/northeastern-naturalist/volume-26/issue-3/045.026.0313/Eviction-Notice--Observation-of-a-Sterna-hirundo-Common-Tern/10.1656/045.026.0313.short)</li>
+  
+  <li>McGowan, P.C. et al., **J.L. Wall**, D.J. Prosser. 2019. Promoting Change in Common Tern (*Sterna hirundo*) Nest Site Selection to Minimize Construction Related Disturbance. *Ecological Restoration.* 37(3):143- 147. [doi:10.3368/er.37.3.143](https://er.uwpress.org/content/37/3/143)</li>
+  
+  <li>**Wall, J.L.**, P.M. Marban, D.F. Brinker, J.D. Sullivan, M. Zimnick, J.L. Murrow, P.C. McGowan, C.R. Callahan, D.J. Prosser. 2018. A Video Surveillance System to Monitor Breeding Colonies of Common Terns (*Sterna Hirundo*). *J. Vis Exp.* (137), e57928. [doi:10.3791/57928](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns)</li>
+  
+  <li>McGowan, P.C., K.M. Reintsma, J.D. Sullivan, K.P. Devoss, **J.L. Wall**, M.D. Zimnik, C.R. Callahan, B. Schultz, D.J. Prosser. 2018. Use of bank swallow (Riparia riparia) burrows as microclimates by common terns (*Sterna hirundo*) in high temperature environments. *Waterbirds*: 41(2), 179-182. [doi:10.1675/063.041.0210](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short)</li>
+</ul>
+
+</div>  
+
+---
+
+<a name="Maine"></a>
+
+<div text style= "float:right; position: relative">
+
+```{r NSWO, echo = F, out.width = "40%", out.extra='style="float:right; padding:20px"'}
+knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/NSWO.JPG")
+```
+
+
+### Northern Saw-whet owl migrations
+
+In 2017, I managed a banding station at Pet&#237;t Manan Point in Steuben, Maine as part of [Project OwlNet](www.projectowlnet.org), a continent-wide survey effort to track Northern saw-whet owl migration patterns over time. 
+
+In partnership with the project's founder, Dave Brinker, [Hawk Mountain Sanctuary](http://hawkmountain.org), and collaborators throughout the Northeast (ranging from Qu&#233;bec, Canada to Assateague, MD), I assessed Northern saw-whet owl population trends from 7 sites over a 25 year period. We were able to identify cyclic juvenile owl irruptions, and found that populations appeared relatively stable throughout their migration and winter ranges ([published research paper](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-132/issue-3/19-125/Twenty-five-year-population-trends-in-Northern-Saw-whet-Owl/10.1676/19-125.short)).
+
+Publications and Media:
+
+<ul>
+  <li>2021 webinar with Hawk Mountain Sanctuary: ["Becoming nocturnal: A glimpse into monitoring Northern saw-whet owls"](https://www.youtube.com/watch?v=zOiK1mbA23U).</li>
+  
+  <li>**Wall, J.**, D. Brinker, S. Weindensaul, D. Okines, P. Côté, J.F. Therrien. 2021. Twenty-five year population trends in Northern Saw-Whet Owl (*Aegolius acadicus*) in eastern North America. *The Wilson Journal of Ornithology.* 132(3):739-745. [doi.org/10.1676/19-125](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-132/issue-3/19-125/Twenty-five-year-population-trends-in-Northern-Saw-whet-Owl/10.1676/19-125.short)</li>
+</ul>
+
+</div>  

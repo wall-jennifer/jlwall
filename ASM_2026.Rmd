@@ -2,7 +2,6 @@
 title: "American Society for Mammalogists 2026 poster"
 output: 
   html_document:
-    self_contained: no
 ---
 
 ```{r echo=F, message=F, fig.align='center', out.width="100%", out.height="700"}

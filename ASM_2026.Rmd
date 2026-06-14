@@ -5,12 +5,6 @@ output:
     self_contained: no
 ---
 
-```{css, echo=FALSE}
-.navbar {
-  display: none !important;
-}
-```
-
 ```{r echo=F, message=F, fig.align='center', out.width="100%", out.height="700"}
 
 knitr::include_graphics("Photos/Wall_ASM2026_HowLongIsLongEnough.jpg")

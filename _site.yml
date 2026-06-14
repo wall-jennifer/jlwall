@@ -1,5 +1,6 @@
 name: "my-website"
 exclude: ["ASM_2026.Rmd", "ASM_2026.html"]
+include: ["CNAME"]
 navbar:
   title: "Jennifer L. Wall, PhD"
   left:

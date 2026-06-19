@@ -18,7 +18,9 @@
 # Peer- Reviewed Publications
 
 <ol reversed>
-  <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos.* Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.or/doi:10.5061/dryad.gtht76j2v)</li>
+  <li>**Wall, J.L.** and J.F. Brodie. 2026. From peaks to patches: Hierarchical climate filtering in collared pikas and hoary marmots. *Ecology. In press*</li>
+  
+  <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos. In press* Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.org/doi:10.5061/dryad.gtht76j2v)</li>
   
   <li>Prosser, D.J., J.D. Sullivan, **J.L. Wall**, E.J. Buck, J.J. Taylor, C.R. Callahan, P.C. McGowan. 2022. Poplar Island: Understanding the Development of a Beneficial Use Restoration Site. *Ecological Restoration.* 40:17-24. [doi:10.3368/er.40.1.17](https://er.uwpress.org/content/40/1/17)</li>
     

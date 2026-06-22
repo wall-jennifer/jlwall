@@ -31,10 +31,6 @@ output:
 
 ---
 
-Learn more about my ongoing and past research projects.
-
----
-
 ```{r, eval = F, echo=F, message=F,  out.width = "100%"}
 library(tidyverse)
 library(leaflet)
@@ -67,7 +63,21 @@ leaflet() %>%
 
 <div text style= "float:right; position: relative">
 
-## Ongoing research projects
+## Research focus
+
+My research bridges population and community ecology to examine how shifting landscapes and climatic stressors affect mammal behavior and composition. By integrating ecological modeling with applied field observations across diverse ecoregions, my work aims to support evidence-based conservation and the sustainable management of global ecosystems. 
+
+Key ongoing research themes include:
+
+  - **Anthropogenic Impacts on Movement Ecology:** Looking into how habitat fragmentation and urbanization alter individual and population-level space use and behavior.
+  - **Climate-Driven Shifts in Spatial Ecology:** Looking into how changing temperatures and shifting landscapes shape the distribution and abundance of populations. 
+  - **Wildlife and Behavioral Ecology:** Understanding how animals behave and adapt in modified environments.
+  - **Conservation & Ecosystem Management:** Integrating research with applied management.
+  
+
+To learn more about my ongoing research projects, see below.
+  
+---
 
 <a name="HudsonHighlands"></a>
 
@@ -82,7 +92,7 @@ This research is part of the Black Rock Forest [Hudson Highlands Wildlife Connec
 
 I will be presenting on different aspects of this research at various conferences this year, including:
 
-  - ["How long is long enough? Method for defining when animal behavior returns to normal post-trapping"](https://www.jlwallphd.com/ASM_2026) at The American Society of Mammalogists 105th annual meeting in in June.
+  - ["How long is long enough? Method for defining when animal behavior returns to normal post-trapping"](https://www.jlwallphd.com/ASM_2026) at The American Society of Mammalogists 105th annual meeting June 2026.
   - "Linking drainage culvert features and roadkill hotspots to wildlife functional connectivity" at the Northeastern Transportation and Wildlife Conference in September.
   - *[tentative]* "Incorporating road permeability into multi-stage, behavior dependent bobcat functional connectivity models" at The Wildlife Society in November.
 
@@ -100,7 +110,7 @@ I will be presenting on different aspects of this research at various conference
 knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Photos/JWall_BRFResearchSymposium.JPG")
 ```
 
-### Modeling deer abundance
+### Modeling deer behavior and abundance
 
 Accurately modeling wildlife populations is crucial for effective management. This is particularly true for white-tailed deer (*Odocoileus virginianus*) populations in the Northeastern United States, where deer are both culturally and historically significant, but often overabundant and damaging to forest health. As climate changes make traditional surveys increasingly challenging and less reliable, we will need to find alternative approaches for monitoring populations. Together with Dr. Scott LaPoint and John Brady, I am working to compare various techniques for measuring deer populations (winter snow tracking, spring pellet counts, and baited and unbaited camera trap surveys) within [Black Rock Forest](www.blackrockforest.org). 
 
@@ -133,7 +143,9 @@ Climate change is amplified is polar regions and could have considerable consequ
 Publications, Presentations, and Media:
 
 <ul>
-<li>**Wall, J.L.** & J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos*. [In press] [(Link to pre-print)](https://www.authorea.com/users/923210/articles/1295104-patch-quality-affords-behavioral-flexibility-in-collared-pikas-ochotona-collaris-potentially-increasing-climate-resiliency) Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.or/doi:10.5061/dryad.gtht76j2v)</li>
+<li>**Wall, J.L.** & J.F. Brodie. 2026. From peaks to patches: Hierarchical climate filtering in collared pikas and hoary marmots. *Ecology*. [*In Press*]</li>
+
+<li>**Wall, J.L.** & J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos*. [doi:10.1002/oik.11677](https://doi.org/10.1002/oik.11677) Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.or/doi:10.5061/dryad.gtht76j2v)</li>
 
 <li>**Wall, J.L.** and J.F. Brodie. 2024. How are climate changes influencing alpine wildlife? *The Wildlife Society conference*, Baltimore, MD. [presentation]</li>
 

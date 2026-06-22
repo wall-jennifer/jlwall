@@ -20,13 +20,13 @@
 <ol reversed>
   <li>**Wall, J.L.** and J.F. Brodie. 2026. From peaks to patches: Hierarchical climate filtering in collared pikas and hoary marmots. *Ecology. In press.*</li>
   
-  <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas (*Ochotona collaris*), potentially increasing climate resiliency. *Oikos. In press.* Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.org/doi:10.5061/dryad.gtht76j2v)</li>
+  <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas *Ochotona collaris*, potentially increasing climate resiliency. *Oikos*. [doi:10.1002/oik.11677](https://doi.org/10.1002/oik.11677). Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.org/doi:10.5061/dryad.gtht76j2v)</li>
   
   <li>Prosser, D.J., J.D. Sullivan, **J.L. Wall**, E.J. Buck, J.J. Taylor, C.R. Callahan, P.C. McGowan. 2022. Poplar Island: Understanding the Development of a Beneficial Use Restoration Site. *Ecological Restoration.* 40:17-24. [doi:10.3368/er.40.1.17](https://er.uwpress.org/content/40/1/17)</li>
     
   <li>**Wall, J.L.**, B. Loken, J.F. Brodie. 2021. Reconciling resource extraction and species conservation in a multi-use landscape: Immediate and long-term impacts of logging on rainforest mammal diversity. *Global Ecology and Conservation.* 28. [doi:10.1016/j.gecco.2021.e01642](https://www.sciencedirect.com/science/article/pii/S235198942100192X)</li>
   
-  <li>**Wall, J.**, D. Brinker, S. Weindensaul, D. Okines, P. Côté, J.F. Therrien. 2021. Twenty-five year population trends in Northern Saw-Whet Owl (*Aegolius acadicus*) in eastern North America. *The Wilson Journal of Ornithology.* 132(3):739-745. [doi.org/10.1676/19-125](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-132/issue-3/19-125/Twenty-five-year-population-trends-in-Northern-Saw-whet-Owl/10.1676/19-125.short)</li>
+  <li>**Wall, J.**, D. Brinker, S. Weindensaul, D. Okines, P. Côté, J.F. Therrien. 2021. Twenty-five year population trends in Northern Saw-Whet Owl (*Aegolius acadicus*) in eastern North America. *The Wilson Journal of Ornithology.* 132(3):739-745. [doi:10.1676/19-125](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-132/issue-3/19-125/Twenty-five-year-population-trends-in-Northern-Saw-whet-Owl/10.1676/19-125.short)</li>
   
   <li>Riggs, G.J., J.D. Sullivan, K.M. Harvey, D.A. Pappas, **J.L. Wall**, P.C. McGowan, C.R. Callahan, C.A. Koppie, D.J. Prosser. 2019. Eviction Notice: Observation of a Common Tern (*Sterna hirundo*) Usurping an Active Least Tern (*Sterna antillarum*) Nest. *Northeastern Naturalist.* 26(3): 609-615.[doi:10.1656/045.026.0313](https://bioone.org/journals/northeastern-naturalist/volume-26/issue-3/045.026.0313/Eviction-Notice--Observation-of-a-Sterna-hirundo-Common-Tern/10.1656/045.026.0313.short)</li>
   

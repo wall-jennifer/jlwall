@@ -36,21 +36,39 @@ knitr::include_graphics("C:/Users/jwall/Documents/GitHub_jlwall/jlwall/Wall_Dena
 
 # Jennifer L. Wall, PhD
 
-## *Postdoctoral Research Fellow*
+## *Interdisciplinary Postdoctoral Ecologist*
 
-## Black Rock Forest & Lamont-Doherty Earth Observatory, Columbia University
+## National Zoo and Conservation Biology Institute, Smithsonian Institution & Duke Farms, a Center for the Doris Duke Foundation
 
 <br>
 
 I am a wildlife biologist broadly interested in population and community ecology, theoretical and applied modeling, and behavioral ecology. More specifically, I am interested in better understanding how climate and other anthropogenic changes impact species interactions and behavior at the intersection of both applied and theoretical ecology.
 
-I have about 10 years of research experience on a variety of taxa and systems, including planning and implementing a multi-year, collaborative research project assessing the impacts of climate and landcover changes on at-risk wildlife in Alaska. I am currently a Postdoctoral Research Fellow with [Black Rock Forest](https://www.blackrockforest.org/) and the [Lamont-Doherty Earth Observatory](https://lamont.columbia.edu/), where I am building on existing research efforts to understand mammal composition and landscape use in the Hudson Valley. 
+I have about 10 years of research experience on a variety of taxa and systems, including planning and implementing a multi-year, collaborative research project assessing the impacts of climate and landcover changes on at-risk wildlife in Alaska. Prior to my current role, I served as a Postdoctoral Research Fellow with [Black Rock Forest](https://www.blackrockforest.org/) and the [Lamont-Doherty Earth Observatory](https://lamont.columbia.edu/), where I am built on existing research efforts to understand mammal composition and landscape use in the Hudson Valley, including work on bobcat connectivity and white-tailed deer behavior. I am currently working as a Interdisciplinary Postdoctoral Ecologist with the Smithsonian Institution's National Zoo and Conservation Biology Institute and Duke Farms, a center for the Doris Duke Foundation, where I am leveraging my research and modeling background to advance regional connectivity efforts in the Northeastern United States.
 
 </div>
 
 ---
 
+
 # Recent Updates
+
+November 2026
+
+  : I presented my work on bobcat functional connectivity modeling at the annual Wildlife Society conference in Des Moinse, Iowa.
+
+
+October 2026
+
+  : Just published on of my dissertation chapters in *Ecology*, titled, "From peaks to patches: Hierarchical climate filtering in collared pikas and hoary marmots." [See the published manuscript here.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70503)
+
+
+September 2026
+
+  : I presented my work on mammalian roadkill hotspots and culvert underpassage usage at the Northeastern Transportation and Wildlife Conference in State college, PA.
+  
+  : I also transitioned to a new position with the Smithsonian Institution and Duke Farms as an Interdisciplinary Postdoctoral Ecologist!
+
 
 June 2026
 
@@ -58,9 +76,11 @@ June 2026
 
   : I attended the 106th American Society of Mammalogists meeting June 12 -1 15th. [See here for my poster on quantifying significant animal behavior change points](https://www.jlwallphd.com/ASM_2026).  
 
+
 February 2026
  
   : Caught our first bobcat of the season - welcome, LYRU0008!
+
 
 January 2026
  
@@ -77,13 +97,3 @@ July 2025
   : Check out [Black Rock Forest's blog post](http://www.blackrockforest.org/blog/our-postdoctoral-fellows) welcoming me as their incoming postdoctoral research fellow and saying goodbye to our outgoing postdoctoral fellow, Dr. Hanna Makowski.
 
   : Also made an appearance in [Black Rock Forest's 2025 Summer newsletter](https://www.blackrockforest.org/wp-content/uploads/2025/07/2025_summer_newsletter_v5.pdf) (Page 4).
-
-
-
-<div style="width:130px; float:left; padding:30px">
-![](BRF.logo.svg)
-</div>
-
-<div style="width:370px; float:left; padding:30px">
-![](LDEO.logo.jpg)
-</div>

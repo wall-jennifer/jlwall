@@ -15,10 +15,13 @@
   });
 </script>
 
+*Last updated: Nov. 2026*
+
 # Peer- Reviewed Publications
+(\* indicates co-first authors)
 
 <ol reversed>
-  <li>**Wall, J.L.** and J.F. Brodie. 2026. From peaks to patches: Hierarchical climate filtering in collared pikas and hoary marmots. *Ecology. In press.*</li>
+  <li>**Wall, J.L.** and J.F. Brodie. 2026. From peaks to patches: Hierarchical climate filtering in collared pikas and hoary marmots. *Ecology.* 107(10): e70503. [doi:10.1002/ecy.70503](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70503). Data archived in Zenodo: [doi:10.5281/zenodo.20818167](https://doi.org/10.5281/zenodo.20818167)</li>
   
   <li>**Wall, J.L.** and J.F. Brodie. 2026. Patch quality affords behavioral flexibility in collared pikas *Ochotona collaris*, potentially increasing climate resiliency. *Oikos*. [doi:10.1002/oik.11677](https://doi.org/10.1002/oik.11677). Data archived in *Dryad*: [doi:10.5061/dryad.gtht76j2v](https://doi.org/doi:10.5061/dryad.gtht76j2v)</li>
   
@@ -32,7 +35,7 @@
   
   <li>McGowan, P.C. J.D. Sullivan, C.R. Callahan, W. Schultz, **J.L. Wall**, D.J. Prosser. 2019. Promoting Change in Common Tern (*Sterna hirundo*) Nest Site Selection to Minimize Construction Related Disturbance. *Ecological Restoration.* 37(3):143- 147. [doi:10.3368/er.37.3.143](https://er.uwpress.org/content/37/3/143)</li>
   
-  <li>**Wall, J.L.**, P.M. Marban, D.F. Brinker, J.D. Sullivan, M. Zimnick, J.L. Murrow, P.C. McGowan, C.R. Callahan, D.J. Prosser. 2018. A Video Surveillance System to Monitor Breeding Colonies of Common Terns (*Sterna Hirundo*). *J. Vis Exp.* (137), e57928. [doi:10.3791/57928](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns)</li>
+  <li>**Wall, J.L.**\*, P.M. Marban\*, D.F. Brinker, J.D. Sullivan, M. Zimnick, J.L. Murrow, P.C. McGowan, C.R. Callahan, D.J. Prosser. 2018. A Video Surveillance System to Monitor Breeding Colonies of Common Terns (*Sterna Hirundo*). *J. Vis Exp.* (137), e57928. [doi:10.3791/57928](https://app.jove.com/t/57928/a-video-surveillance-system-to-monitor-breeding-colonies-common-terns)</li>
   
   <li>McGowan, P.C., K.M. Reintsma, J.D. Sullivan, K.P. Devoss, **J.L. Wall**, M.D. Zimnik, C.R. Callahan, B. Schultz, D.J. Prosser. 2018. Use of bank swallow (*Riparia riparia*) burrows as microclimates by common terns (*Sterna hirundo*) in high temperature environments. *Waterbirds*: 41(2), 179-182. [doi:10.1675/063.041.0210](https://bioone.org/journals/waterbirds/volume-41/issue-2/063.041.0210/Use-of-Bank-Swallow-Riparia-riparia-Burrows-as-Shelter-by/10.1675/063.041.0210.short)</li>
 </ol>
@@ -50,6 +53,9 @@
   <li>Chelst, Shlomit, Belton Delaine-Facey, S. J. Hull, D Jordan, Victoria Monsaint-Queeney, Mitul D Patel, Aayush Thapa, **J Wall** and D. A. Yee. “Evaluating the Efficacy of Cattail (*Typha spp.*) Fiber for Oil Sorption.” (2017). *University of Maryland*: Student Theses. [https://doi.org/10.13016/M26T0GW45](https://drum.lib.umd.edu/items/e13df64c-b690-4b91-8e5e-c3ca8166361b)</li>
   
 </ol>
+
+
+
 
 <div style="width:120px; float:left; padding:20px">
 [![Orcid](orcid.logo.png)](https://orcid.org/0000-0003-2521-9642)
